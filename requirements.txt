@@ -1,0 +1,10 @@
+flask
+gunicorn
+numpy
+pandas
+scikit-learn
+scipy
+opencv-python-headless
+scikit-image
+joblib
+scikit-learn==1.6.1
